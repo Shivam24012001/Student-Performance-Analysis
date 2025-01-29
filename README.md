@@ -1,40 +1,40 @@
 # Overview 
 
-This project analyzes student performance using various Google Sheets functions, including IF, AND, OR, VLOOKUP, dropdowns, and filters. The aim is to generate a consolidated student report that includes total marks, grace marks, pass/fail status, and additional reports based on specified conditions.
+>>This project analyzes student performance using various Google Sheets functions, including IF, AND, OR, VLOOKUP, dropdowns, and filters. The aim is to generate a consolidated >student report that includes total marks, grace marks, pass/fail status, and additional reports based on specified conditions.
 
 ## Features & Methodology
 
 ### 1. Total Marks Calculation
 
-Total Marks = Academic Score + Internal Score
+>Total Marks = Academic Score + Internal Score
 
 ### 2. Grace Marks Allocation
 
-If Social Score or Co-curricular Score is greater than 90 → +10 marks
+>If Social Score or Co-curricular Score is greater than 90 → +10 marks
 
-If Social Score or Co-curricular Score is greater than 80 → +5 marks
+>If Social Score or Co-curricular Score is greater than 80 → +5 marks
 
-If Social Score or Co-curricular Score is greater than 75 → +3 marks
+>If Social Score or Co-curricular Score is greater than 75 → +3 marks
 
-Otherwise → 0 marks
+>Otherwise → 0 marks
 
 ### 3. Consolidated Marks Calculation
 
-Consolidated Marks = Total Marks + Grace Marks
+>Consolidated Marks = Total Marks + Grace Marks
 
 ### 4. Pass/Fail Determination
 
-A student is considered Pass if all the following conditions are met:
+?A student is considered Pass if all the following conditions are met:
 
-Academic Score ≥ 60
+>Academic Score ≥ 60
 
-Internal Score ≥ 20
+>Internal Score ≥ 20
 
-Attendance Percentage ≥ 50%
+>Attendance Percentage ≥ 50%
 
-Consolidated Marks ≥ 90
+>Consolidated Marks ≥ 90
 
-Otherwise, the student is marked as Fail.
+>Otherwise, the student is marked as Fail.
 
 ### 5. Reports and Insights
 
@@ -42,13 +42,12 @@ Otherwise, the student is marked as Fail.
 
 >Dropdown menus for dynamic selection and analysis.
 
-?Automated reports created to visualize student performance.
+>Automated reports created to visualize student performance.
 
 ## Files Included
 
-Google Sheets File: Contains formulas, conditional formatting, and reports.
+>Google Sheets File: Contains formulas, conditional formatting, and reports.
 
-README.md: Documentation explaining the project.
 
 ## How to Use
 
@@ -66,6 +65,6 @@ README.md: Documentation explaining the project.
 
 ## Tools Used
 
-Google Sheets
+>Google Sheets
 
-Functions Used: IF, Nested IF, AND, OR, VLOOKUP, Filters, Dropdowns, Array_Constrain, Sorting
+>Functions Used: IF, Nested IF, AND, OR, VLOOKUP, Filters, Dropdowns, Array_Constrain, Sorting
