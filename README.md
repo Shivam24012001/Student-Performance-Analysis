@@ -38,11 +38,11 @@ Otherwise, the student is marked as Fail.
 
 ### 5. Reports and Insights
 
-Filtering and summarizing data based on specified conditions.
+>Filtering and summarizing data based on specified conditions.
 
-Dropdown menus for dynamic selection and analysis.
+>Dropdown menus for dynamic selection and analysis.
 
-Automated reports created to visualize student performance.
+?Automated reports created to visualize student performance.
 
 ## Files Included
 
@@ -56,11 +56,11 @@ README.md: Documentation explaining the project.
 
 #### 2. Navigate to the following tabs:
 
-"Concept Building Problems" – for problem-solving exercises.
+>"Concept Building Problems" – for problem-solving exercises.
 
-"Student Consolidated Score" – for the final student report.
+>"Student Consolidated Score" – for the final student report.
 
-"Reports" – for additional insights and summaries.
+>"Reports" – for additional insights and summaries.
 
 #### 3. Review student performance based on the pre-defined logic and filters.
 
